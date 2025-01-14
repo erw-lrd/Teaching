@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains lab codes for two courses: **BIOE60008/70036 Image Processing (2024-2025)** and **ELEC70121 Trustworthy Artificial Intelligence in Medical Imaging (2024-2025)**. The labs cover various topics in image processing and AI techniques applied to medical imaging.
+This repository contains lab codes for **BIOE60008/70036 Image Processing (2024-2025)**. The labs cover various topics in image processing applied to medical imaging.
 
 ## Courses and Lab Sessions
 
@@ -15,8 +15,8 @@ This repository contains lab codes for two courses: **BIOE60008/70036 Image Proc
 #### 6_Segmentation
 - **Segmentation_NoSolution.ipynb**: Tutorial on image segmentation.
 - **attention.png**: Image used for attention mechanism visualization.
-- **images_part_xx**: splited files include images for segmentation exercises.
-- **masks_part_xx**: splited files include masks for segmentation exercises.
+- **images_part_xx**: Splited files include images for segmentation exercises.
+- **masks_part_xx**: Splited files include masks for segmentation exercises.
 
 
 #### 7_Reconstruction
@@ -30,14 +30,6 @@ This repository contains lab codes for two courses: **BIOE60008/70036 Image Proc
 
 - **Registration_NoSolution.ipynb**: Tutorial on image registration.
 - **realSCMR.npz**: Dataset used for registration exercises.
-
-### ELEC70121 Trustworthy Artificial Intelligence in Medical Imaging (2024-2025)
-
-#### Reconstruction
-- **Reconstruction.ipynb**: Tutorial on MRI reconstruction.
-- **dataset/**: Directory containing datasets for reconstruction exercises.
-- **mask/**: Directory containing mask files for reconstruction exercises.
-- **sample/**: Directory containing sample data for reconstruction exercises.
 
 ## License
 
